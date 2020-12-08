@@ -1,16 +1,17 @@
-### Hi there 👋
+### Welcome to my profile 🚀
 
-<!--
-**ralfz123/ralfz123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 21 year old student.
+Communication and Multimedia Design
+University of Applied Sciences Amsterdam
 
-Here are some ideas to get you started:
+Learning to be a Frontend Developer 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+            _  __    __ ___  ____  
+           | |/ _|  /_ |__ \|___ \ 
+  _ __ __ _| | |_ ___| |  ) | __) |
+ | '__/ _` | |  _|_  / | / / |__ < 
+ | | | (_| | | |  / /| |/ /_ ___) |
+ |_|  \__,_|_|_| /___|_|____|____/ 
+                                   
+                                   
