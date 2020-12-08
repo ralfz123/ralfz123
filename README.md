@@ -15,4 +15,4 @@ Learning to be a Frontend Developer 💻
 ```
 
 
-Check out my work on [my portfolio](https://ralfzonneveld.com/) and all of the coded projects are [here](https://github.com/ralfz123?tab=repositories) on GitHub 🐈
+Check out my work on <a href="https://ralfzonneveld.com/" target="_blank">my portfolio</a> and all of the coded projects are <a href="https://github.com/ralfz123?tab=repositories" target="_blank">here</a> on GitHub 🐈
