@@ -13,3 +13,6 @@ Learning to be a Frontend Developer 💻
  | | | (_| | | |  / /| |/ /_ ___) |
  |_|  \__,_|_|_| /___|_|____|____/ 
 ```
+
+
+Check out my work on [my portfolio](https://ralfzonneveld.com/) and all of the coded projects are [here](https://github.com/ralfz123?tab=repositories) on GitHub 🐈
