@@ -1,8 +1,7 @@
 ### Welcome to my profile 🚀
 
-I'm a 21 year old student.
-Communication and Multimedia Design
-University of Applied Sciences Amsterdam
+I'm a 21 year old student at the University of Applied Sciences Amsterdam studying <a href="https://www.cmd-amsterdam.nl/" target="_blank">Communication and Multimedia Design</a>.
+
 
 Learning to be a Frontend Developer 💻
 ```
