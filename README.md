@@ -6,6 +6,10 @@ I'm a 21 year old student at the University of Applied Sciences Amsterdam studyi
 Learning to be a Frontend Developer 💻
 
 Check out my work on <a href="https://ralfzonneveld.com/" target="_blank" >my portfolio</a> and all of the coded projects are <a href="https://github.com/ralfz123?tab=repositories" target="_blank">here</a> on GitHub 🐈
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ralfz123&hide=contribs,prs,stars&count_private=true&show_icons=true)
+
+***
 ```
             _  __    __ ___  ____  
            | |/ _|  /_ |__ \|___ \ 
@@ -15,5 +19,3 @@ Check out my work on <a href="https://ralfzonneveld.com/" target="_blank" >my po
  |_|  \__,_|_|_| /___|_|____|____/ 
 ```
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ralfz123&hide=contribs,prs,stars&count_private=true&show_icons=true)
