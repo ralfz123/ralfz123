@@ -17,6 +17,8 @@ Check out my work on <a href="https://ralfzonneveld.com/" target="_blank" >my po
   </a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=ralfz123)
+
 ***
 ```
             _  __    __ ___  ____  
