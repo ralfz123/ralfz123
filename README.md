@@ -1,9 +1,6 @@
 ### Hi, I'm Ralf :rocket:
 
-I'm a 22 year old student at the University of Applied Sciences Amsterdam studying *<a href="https://www.cmd-amsterdam.nl/" target="_blank">Communication and Multimedia Design</a>*.
-
-
-Learning to be a Frontend Developer 💻
+I'm a 23 year old Frontend Developer 💻.
 
 Check out my work on <a href="https://ralfzonneveld.com/" target="_blank" >my portfolio</a> and all of the coded projects are <a href="https://github.com/ralfz123?tab=repositories" target="_blank">here</a> on GitHub!
 
