@@ -1,6 +1,6 @@
 ### Hi, I'm Ralf :rocket:
 
-I'm a 23 year old Frontend Developer 💻.
+I'm a 23 year old Frontend Developer 💻
 
 Check out my work on <a href="https://ralfzonneveld.com/" target="_blank" >my portfolio</a> and all of the coded projects are <a href="https://github.com/ralfz123?tab=repositories" target="_blank">here</a> on GitHub!
 
