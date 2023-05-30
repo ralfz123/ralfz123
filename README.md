@@ -1,6 +1,6 @@
 ### Hi, I'm Ralf :rocket:
 
-I'm a 23 year old Frontend Developer 💻
+Frontend Developer 💻
 
 Check out my work on <a href="https://ralfzonneveld.com/" target="_blank" >my portfolio</a> and all of the coded projects are <a href="https://github.com/ralfz123?tab=repositories" target="_blank">here</a> on GitHub!
 
@@ -13,15 +13,3 @@ Check out my work on <a href="https://ralfzonneveld.com/" target="_blank" >my po
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralfz123&layout=compact&title_color=00a994&text_color=9f9f9f&bg_color=ffffff" alt="https://github.com/ralfz123/github-readme-stats">
   </a>
 </p>
-
-![](https://komarev.com/ghpvc/?username=ralfz123)
-
-***
-```
-            _  __    __ ___  ____  
-           | |/ _|  /_ |__ \|___ \ 
-  _ __ __ _| | |_ ___| |  ) | __) |
- | '__/ _` | |  _|_  / | / / |__ < 
- | | | (_| | | |  / /| |/ /_ ___) |
- |_|  \__,_|_|_| /___|_|____|____/ 
-```
